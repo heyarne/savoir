@@ -3,4 +3,5 @@
 ** Bad
 ** Balkon
 *** [#A] Discokugel
+*** Taubenmist entfernen
 *** Tresen
