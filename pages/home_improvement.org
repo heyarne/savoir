@@ -9,4 +9,3 @@
 *** [#A] Discokugel aufhängen
 *** Taubenmist entfernen
 *** Tresen
-*** Test: ((5fb0db1a-684d-4caa-bf01-516d4900afa1))
