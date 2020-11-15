@@ -27,6 +27,9 @@ Wenn möglich wird direkt auf Quellen verlinkt.
 ** Detlef D. Soost
 *** Fabulierte am 8.5. von Impfpflicht ab 15.5. ([[https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/corona-krise-promis-die-auf-verschwoerungstheoretiker-starren-16760107/66744705-16760095.html][src]]), als auch in der Nähe von [[Impfgegnerschaft]]
 ** Michael Wendler
+:PROPERTIES:
+:custom_id: 5fb0db1a-684d-4caa-bf01-516d4900afa1
+:END:
 *** Die nachfolgenden Aussagen bezieh sich alle auf sein DSDS-Ausstiegsvideo
 *** Redet von "[[Corona-Leugnung][angeblicher Corona-Pandemie]]"
 *** Es herrscht [[Zensur]], nur auf Telegram kann man noch frei reden
