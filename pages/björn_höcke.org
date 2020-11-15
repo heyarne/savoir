@@ -1,3 +1,21 @@
-#+TITLE: Björn Höcke
+#+title: Björn Höcke
 
-** 
+** Zitate
+
+- Die folgenden Zitate sind [[https://www.watson.de/deutschland/best%20of%20watson/809698121-fdp-laesst-sich-mit-hilfe-von-afd-waehlen-und-die-tickt-so-hoeckes-weltbild-in-13-zitaten][einem Artikel auf watson]] entnommen
+
+#+BEGIN_QUOTE
+Eine neue politische Führung ist den Interessen der autochthonen Bevölkerung verpflichtet und muss aller Voraussicht nach Maßnahmen ergreifen, die ihrem eigentlichen moralischen Empfinden zuwiderlaufen. (Nie Zweimal in denselben Fluss, 2018)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Ich will, dass Magdeburg und dass Deutschland nicht nur eine tausendjährige Vergangenheit haben. Ich will, dass sie noch eine tausendjährige Zukunft haben, und ich weiß, ihr wollt das auch. (AfD-Demo in Magdeburg, 2015)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Unser einst weltweit beneideter sozialer Friede ist durch den steigenden Missbrauch und die Aufgabe der national begrenzten Solidargemeinschaft sowie durch den Import fremder Völkerschaften und die zwangsläufigen Konflikte existenziell gefährdet. (Rede im Ballhaus Dresden, 17. Januar 2017)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Unser Geldsystem ist krank und muss grundlegend reformiert werden, damit sich Leistung und Ehrlichkeit wieder lohnen, und nicht Schläue und Verschlagenheit. (Rede im Thüringer Landtag, 8. Mai 2020)
+#+END_QUOTE
