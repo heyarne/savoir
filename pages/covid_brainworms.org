@@ -6,8 +6,13 @@ Diese Liste soll nicht als Internetpranger dienen sondern viel mehr dokumentiere
 
 Wenn möglich wird direkt auf Quellen verlinkt.
 **
+**
 #+BEGIN_QUERY
-
+{:name "Test Query: All Tasks"
+:query [:find (pull ?b [*])
+         :where
+         [?b :block/marker ?m]
+         [(not= ?m "nil")]]}}
 #+END_QUERY
 ** Attila Hildman
 *** … muss man wohl nicht weiter kommentieren
