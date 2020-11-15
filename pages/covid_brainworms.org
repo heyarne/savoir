@@ -6,9 +6,9 @@ Diese Liste soll nicht als Internetpranger dienen sondern viel mehr dokumentiere
 
 Wenn möglich wird direkt auf Quellen verlinkt.
 ** Eine Query:
-
+**
 #+BEGIN_QUERY
-{:name "Test Query: All Tasks"
+{:title "Test Query: All Tasks"
 :query [:find (pull ?b [*])
          :where
          [?b :block/marker ?m]
