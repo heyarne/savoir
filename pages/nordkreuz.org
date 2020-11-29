@@ -1,5 +1,6 @@
 #+TITLE: Nordkreuz
 
+** Nordkreuz nennt sich eine Gruppe von etwa 40 bis zeitweise 54 rechtsextremen deutschen Preppern, die sich auf einen erwarteten Staatszusammenbruch am „Tag X“ vorbereiten und eine folgende Massentötung von als politische Gegner betrachteten Flüchtlingshelfern geplant haben sollen. […] Nach Angaben des Gründers Marko G. vom August 2020 ist die Gruppe weiter aktiv. ([[https://www.spiegel.de/politik/deutschland/rechtsextreme-bei-polizei-und-bundeswehr-die-dunkle-seite-der-staatsmacht-a-00000000-0002-0001-0000-000172378470][src]] (ist hinter Paywall)) (Auszug aus [[https://de.wikipedia.org/w/index.php?title=Nordkreuz&oldid=205635649][Wikipedia]])
 **
 #+BEGIN_QUOTE
 Nordkreuz ist der größte Rechtsextremismus-Skandal Mecklenburg-Vorpommerns, seine Bedeutung reicht weit über die Landesgrenzen hinaus. Es geht um eine Gruppe von Menschen, die sich auf einen [[Tag X]] vorbereiten. Manche von ihnen bauten sich Bunker in den Garten, andere legten Munitionsverstecke an. Wieder andere bestellten Leichensäcke. Zwei Mitglieder der Gruppe, darunter ein Kriminalpolizist, sollen Feindeslisten mit Privatdaten politischer Gegner angelegt haben, um sie an jenem [[Tag X]] töten zu können. Die Bundesanwaltschaft in Karlsruhe ermittelt wegen rechtsextremen Terrorismus.
