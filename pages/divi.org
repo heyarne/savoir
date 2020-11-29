@@ -1,4 +1,3 @@
 #+TITLE: DIVI
 
-*** "Die Zahl der Betten stimmt nicht." / "Da wurden Kapazitäten gemeldet, die der Phantasie entsprungen sind. Die sind beim Rettungsdienst abgemeldet, bei der DIVI aber verfügbare Betten." / "Neulich lag einer zwei Tage im Aufwachraum und in unserem Meldesystem stand aber, dass Intensivbetten frei wären." Anonymisierte Zitate aus Gesprächen mit intensivmedizinischem Personal ([[https://www.br.de/nachrichten/bayern/zweite-corona-welle-intensivpersonal-schlaegt-alarm,SHC8cPU][src]])
 ***
