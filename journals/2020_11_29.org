@@ -6,16 +6,10 @@
 *** https://www.tagesschau.de/ausland/frankreich-demo-polizeigewalt-101.html
 *** Anlass: Neues Gesetz, das Filmen von Polizisten verhindern soll, wenn ihre Sicherheit dabei gefährdet wird (auf Anlaizisten einen Musikproduzenten minutenlang in seinem eigenen Studio verprügeln
 ** [[Uniter]]
-*** https://www.planet-interview.de/interviews/bernd-wagner/52059/
-**** Bernd Wagner, Leiter der Aussteigerorganisation EXIT spricht im Interview darüber, wie schwer es Aussteigern gemacht wird
-***** 80% der Aussteiger in militanten Kreisen
-***** 30% haben nach Ausstieg schwere körperliche Gewalt erfahren
-***** Unter anderem Problem: Verbindungen der Kameradschaften in die Sicherheitsbehörden, fehlendes Training, Unfähigkeit
+*** https://www.planet-interview.* 30% haben nach Ausstieg schwere körperliche Gewalt erfahren
+***** Unter anderem Problem: Verbindungen der Kameradschaften in die Sichert worden durch die Bundes- und Landesbehörden für Verfassungsschutz, dazu gibt es Hinweise von Aussteigern und aus Gerichtsve https://www.sueddeutsche.de/politik/bundeswehr-rechtsextremismus-chalte
+*** MAD ermittelt bei insgesamt 700 Verdachtsfällen
 *****
 #+BEGIN_QUOTE
 Die Rechtsrock-Musikindustrie ist mitfinanziert worden durch die Bundes- und Landesbehörden für Verfassungsschutz, dazu gibt es Hinweise von Aussteigern und Informationen aus Gerichtsverfahren.
 #+END_QUOTE
-** Rechtsextreme Chatgruppe bei Bundeswehr
-*** https://www.sueddeutsche.de/politik/bundeswehr-rechtsextremismus-chatgruppe-1.5130889
-*** 16 Chatmitglieder in Panzerbrigade 9 teilen gewaltverherrlichende, pornographische und antisemitische Inhalte
-*** MAD ermittelt bei insgesamt 700 Verdachtsfällen
