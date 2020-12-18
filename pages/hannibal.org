@@ -1,5 +1,4 @@
 #+TITLE: Hannibal
 #+PUBLIC: true
-- tags :: [[rechtsextremismus]]
-
+- tags :: [[Rechtsextremismus]]
 ** See also: [[Nordkreuz]], [[Uniter]]
