@@ -1,5 +1,5 @@
 #+TITLE: Covid Brainworms
-#+PUBLISHED: true
+#+PUBLISHED: false
 #+PERMALINK: covid%20brainworms
 
 Liste von kruden Äußerungen im Zusammenhang mit der Corona-Pandemie
